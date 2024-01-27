@@ -92,7 +92,7 @@ header a {
 }
 .shop-image {
   width: 100%;
-  aspect-ratio: 4/3;
+  aspect-ratio: 1/1;
 }
 .google-map {
   width: 100%;
@@ -102,6 +102,7 @@ header a {
 main img {
   width: 400px;
   height: 500px;
+  filter: brightness(120%);
 }
 main h2 {
   font-size: 40px;

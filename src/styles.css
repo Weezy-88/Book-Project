@@ -170,7 +170,9 @@ footer li {
 footer ul {
   padding: 0;
 }
-
+.git-link {
+  color: #f8f8f8;
+}
 @media (max-width: 900px) {
   header {
     padding: 10px 60px;
